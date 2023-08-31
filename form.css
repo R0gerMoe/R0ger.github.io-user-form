@@ -1,3 +1,4 @@
+
 body{
     background-image: url(https://images.photowall.com/products/59504/mountain-view-1.jpg?h=699&q=85);
     background-repeat: no-repeat;
@@ -22,9 +23,8 @@ p{
 .name label{
 
 }
-.name input{
-    width: 30%;
-}
+
+
 .email {
     margin: top: 0%%;
 }
@@ -33,4 +33,9 @@ p{
     background-color: rgb(147, 177, 177);
     padding: 3%;
     margin: 5%;
+    text-transform: capitalize;
+}
+
+.form-group input, .form-group select, textarea{
+    width: 100%;
 }
