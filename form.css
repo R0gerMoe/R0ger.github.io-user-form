@@ -35,7 +35,10 @@ p{
     margin: 5%;
     text-transform: capitalize;
 }
-
 .form-group input, .form-group select, textarea{
     width: 100%;
+}
+#text{
+    text-align: left;
+    
 }
