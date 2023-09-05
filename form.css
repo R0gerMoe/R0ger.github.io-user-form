@@ -41,6 +41,13 @@ p{
 .first, .last{
     width: 50%;
 }
+.last{
+    margin-left: 2%;
+}
 #activities label{
     display: block;
+}
+.submit-button{
+    margin-top: 1%;
+    text-align: center;
 }
