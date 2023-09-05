@@ -38,7 +38,9 @@ p{
 .form-group input, .form-group select, textarea{
     width: 100%;
 }
-#text{
-    text-align: left;
-    
+.first, .last{
+    width: 50%;
+}
+#activities label{
+    display: block;
 }
